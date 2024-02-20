@@ -8,5 +8,8 @@
   ![Skills](https://skillicons.dev/icons?i=ruby,rails,react,js,ts,nextjs,tailwind,html,css,github,docker,vercel&theme=light)
 
 #### 📈 status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriplume&show_icons=true&hide=contribs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriplume&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=eriplume&show_icons=true&hide=contribs,issues" alt="Anurag's GitHub stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriplume&layout=compact" alt="Top Langs" height="150">
+</p>
+
